@@ -1,4 +1,5 @@
 /*
+  MY CHANGES
   This is the builder script that generates the README and SNIPPETS_ARCHIVE files.
   Run using `npm run builder`.
 */
